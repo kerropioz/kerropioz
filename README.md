@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @kerropioz
- <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerropioz&show_icons=true&locale=en&layout=compact" alt="kerropioz" /></p>
+
+
+
+[![Kerropi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerropioz)](https://github.com/kerropioz/github-readme-stats)
