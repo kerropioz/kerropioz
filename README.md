@@ -1,6 +1,6 @@
 👋 Hi, I’m @kerropioz
 
-[My website](https://kerropi.xyz) ~ 
+[My website](https://kerropi.xyz)
 
 [![Kerropi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerropioz)](https://github.com/kerropioz/github-readme-stats)
 
